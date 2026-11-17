@@ -5,6 +5,8 @@
       "namespace": "android_app",
       "package_name": "com.petronsa.chimenea",
       "sha256_cert_fingerprints": [
+        "77:66:4A:97:50:06:28:0E:A4:CB:E1:6F:E7:5A:10:97:CE:D1:4B:C8:A0:13:99:51:41:9C:FC:3D:81:9D:07:86",
+        "FA:20:D5:5F:7B:BD:C8:D6:5C:E5:22:44:4C:02:F9:1E:2B:12:88:3E:71:75:9E:33:7A:FC:83:DA:A0:0F:2A:91",
         "F7:44:A7:3E:F7:CE:46:43:CE:D2:A6:33:33:E9:1D:58:A3:CD:B1:E8:76:23:FE:C6:45:B5:46:27:65:0E:4E:4E"
       ]
     }
